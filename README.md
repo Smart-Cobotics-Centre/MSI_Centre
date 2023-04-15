@@ -1,5 +1,8 @@
 # Welcome
 
+The Smart Cobotics Center organization repository on GitHub is a collection of open-source software and hardware projects related to collaborative robots, also known as cobots. The organization aims to create a collaborative platform for researchers, students, and industry professionals interested in cobotics, with the goal of advancing the development and deployment of cobots in various fields. The repository includes projects such as cobot programming frameworks, sensor integration libraries, and robotic grippers, among others. The open-source nature of the repository encourages collaboration and knowledge sharing, fostering a community of experts and enthusiasts in the field of cobotics.
+
+
 The Made Smarter Innovation Research Centre for Smart, Collaborative Industrial Robotics, also known as the Smart Cobotics Centre, is a collaboration between six leading UK universities: Loughborough University (lead), University of Bristol, Cranfield University, University of Dundee, University of Strathclyde and University of Warwick, having research experience in manufacturing, engineering, digital technology, robotics, human-factors, verification and safety, law, psychology, systems engineering, metrology and ICT.
 
 The Centre is built on strong relationships with a wide cross section of 40+ industrial and research partners across core UK industrial sectors including aerospace, automotive, agri-food, green energy, construction and space, both nationally and internationally.
